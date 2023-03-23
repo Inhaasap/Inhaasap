@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Inha</h1>
 <h3 align="center">A passionate future frontend developer from Ukraine</h3>
-<img alight=«right» alt=«coding» width=«400» src=«https://media.tenor.com/qXsgPu0UMHEAAAAC/xd-programming.gif»
+<img alight="right" alt="coding" width="400" src="https://media.tenor.com/qXsgPu0UMHEAAAAC/xd-programming.gif"
 - 🌱 I’m currently learning **web development, Java Script, React**
 
 <h3 align="left">Connect with me:</h3>
