@@ -96,7 +96,7 @@ I'm Inha, a passionate future frontend developer  👨‍💻from Ukraine 💙 �
 
 
 ## Recent Blog Posts  
-<img src="https://www.des-show.com/app/uploads/artificial-intelligence-2167835_1920-e1617184783257.jpg" align="left" height="200" width="600" />  
+<img src="https://www.des-show.com/app/uploads/artificial-intelligence-2167835_1920-e1617184783257.jpg" align="left" height="200" width="400" />  
   
 
 <br/>  
